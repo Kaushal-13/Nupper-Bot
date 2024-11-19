@@ -57,6 +57,6 @@ def nup(input_pdf_path, output_pdf_path, is_landscape=False, rows=2, cols=2):
         writer.write(output_file)
 
 
-input = "sample.pdf"
-output = "nupped.pdf"
-nup(input_pdf_path=input, output_pdf_path=output)
+# input = "sample.pdf"
+# output = "nupped.pdf"
+# nup(input_pdf_path=input, output_pdf_path=output)
